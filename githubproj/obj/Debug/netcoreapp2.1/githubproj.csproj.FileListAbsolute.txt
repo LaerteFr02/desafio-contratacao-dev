@@ -13,10 +13,7 @@ C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\github
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.TagHelpers.input.cache
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.TagHelpers.output.cache
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.RazorCoreGenerate.cache
-C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -28,3 +25,10 @@ C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\github
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.genruntimeconfig.cache
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
 C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.csproj.CoreCompileInputs.cache
+C:\Users\laert\source\repos\githubproj\githubproj\bin\Debug\netcoreapp2.1\githubproj.pdb
+C:\Users\laert\source\repos\githubproj\githubproj\bin\Debug\netcoreapp2.1\githubproj.Views.dll
+C:\Users\laert\source\repos\githubproj\githubproj\bin\Debug\netcoreapp2.1\githubproj.Views.pdb
+C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.Views.pdb
+C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.dll
+C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.pdb
+C:\Users\laert\source\repos\githubproj\githubproj\obj\Debug\netcoreapp2.1\githubproj.csproj.CopyComplete

@@ -1,4 +1,4 @@
-namespace githubproj.Domain.Models
+﻿namespace githubproj.Domain.Models
 {
     public class Repo
     {

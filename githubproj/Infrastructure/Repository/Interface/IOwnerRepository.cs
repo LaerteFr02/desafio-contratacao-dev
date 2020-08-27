@@ -3,7 +3,7 @@
 namespace githubproj.Infrastructure.Repository.Interface
 {
     public interface IOwnerRepository
-    {
+    { 
         Owner Find(long id);
     }
 }

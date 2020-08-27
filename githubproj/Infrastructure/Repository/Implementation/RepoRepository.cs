@@ -16,8 +16,7 @@ namespace githubproj.Infrastructure.Repository.Implementation
 
         public void Add(Repo repo)
         {
-            if (_context.Repo.FirstOrDefault(r => r.full_name == repo.full_name) == null)
-            {
+            if (_context.Repo.FirstOrDefault(r => r.full_name == repo.full_name) == null) {
                 _context.Add(repo);
                 _context.SaveChanges();
             }
